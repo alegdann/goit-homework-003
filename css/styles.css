@@ -43,6 +43,7 @@ img {
 .header {
     border-bottom: 1px solid #e7e9fc;
 
+
 }
 
 .header-container {
@@ -82,6 +83,7 @@ img {
     display: flex;
     align-items: center;
     margin-right: 76px;
+    
 
 
 }
@@ -94,10 +96,13 @@ img {
 .header-menu-list {
     display: flex;
     gap: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    
 }
 
 .header-menu-item {
-    padding: 24px 0;
+
 }
 
 .header-menu-link {
@@ -106,6 +111,11 @@ img {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    padding-top: 24px;
+    padding-bottom: 24px;
+        
+
+    
 }
 
 .header-menu-link:hover,
